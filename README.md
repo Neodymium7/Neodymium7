@@ -3,4 +3,5 @@
 <p float="left">
   <img src="https://github-readme-stats.neodymium.dev/api?username=neodymium7&show_icons=true&include_all_commits=true&theme=github_dark&border_color=4b8eda" height="160">
   <img src="https://github-readme-stats.neodymium.dev/api/top-langs/?username=neodymium7&langs_count=6&layout=compact&theme=github_dark&border_color=4b8eda" height="160">
+  <img src="https://github-readme-stats.neodymium.dev/api/wakatime?username=neodymium&layout=compact&range=last_7_days&custom_title=Programming%20Time%20(Past%20Week)%20&theme=github_dark&border_color=4b8eda" height="160">
 </p>
